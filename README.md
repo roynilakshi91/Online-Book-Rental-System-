@@ -18,4 +18,4 @@
 
 
 
-![My Image](/Users/nilakshiroy/Downloads/bookrentalsystem.png)
+![Alt text](/Users/nilakshiroy/Downloads/bookrentalsystem.png)
