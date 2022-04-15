@@ -17,4 +17,4 @@
 * member home, about, booklist, logout
 
 
-![alt text](http://url/to//Users/nilakshiroy/Downloads/bookrentalsystem.png)
+![alt text](/Users/nilakshiroy/Downloads/bookrentalsystem.png)
