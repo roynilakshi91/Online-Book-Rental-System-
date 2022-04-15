@@ -17,4 +17,5 @@
 * member home, about, booklist, logout
 
 
-![plot](/Users/nilakshiroy/Downloads/bookrentalsystem.png)
+
+![My Image](/Users/nilakshiroy/Downloads/bookrentalsystem.png)
